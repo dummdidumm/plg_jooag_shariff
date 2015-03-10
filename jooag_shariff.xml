@@ -59,6 +59,9 @@
 					<option value="twitter">Twitter</option>
 					<option value="facebook">Facebook</option>
 					<option value="googleplus">Google+</option>
+					<option value="xing">Xing</option>
+					<option value="linkedin">LinkedIn</option>
+					<option value="mail">Mail</option>
 					</field>
 				<field name="info" type="modal_article" default="" label="Select an article" description="You can choose a info page for your visitors" />
 				<field name="showbycategory" showon="restrict:2" type="category" multiple="true" extension="com_content" label="Restrict to a category" description="If no category selected, the buttons appear in every category. If one or more categories are selected, the buttons appear only in this categories!" />

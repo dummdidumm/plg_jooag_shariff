@@ -31,6 +31,18 @@ A Joomla 3 Plugin for Social Media Icons as shariff integration
 <b>Required:</b>
 PHP 5.4+ and Joomla 3.3+
 
+<b>Required for displaying of icons:</b>
+Font Awesome Joomla Plugin http://extensions.joomla.org/extension/ns-font-awesome
+
+<b>Available Share Buttons:</b>
+Twitter
+Facebook
+Google+
+Xing
+LinkedIn
+Mail (in the form of "mailto:?")
+
+
 <b>Comming soon & Problems:</b>
 <ul>
 <li>Better JS handling</li>

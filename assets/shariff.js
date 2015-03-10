@@ -150,6 +150,10 @@ _Shariff.prototype = {
             var $shareLink = $('<a>')
               .attr('href', service.shareUrl)
               .append($shareText);
+			  
+			if (typeof service.faName !== 'undefined') {
+                $shareLink.prepend('<span class="fa ' +  service.faName + '">');
+            }
 
             if (service.popup) {
                 $shareLink.attr('rel', 'popup');
