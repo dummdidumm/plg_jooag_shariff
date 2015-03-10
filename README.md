@@ -34,7 +34,7 @@ PHP 5.4+ and Joomla 3.3+
 <b>Required for displaying of icons:</b>
 Font Awesome Joomla Plugin http://extensions.joomla.org/extension/ns-font-awesome
 
-<b>Available Share Buttons:</b>
+<b>Available Share Buttons:</b><br />
 Twitter<br />
 Facebook<br />
 Google+<br />
