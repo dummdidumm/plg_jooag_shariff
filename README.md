@@ -35,11 +35,11 @@ PHP 5.4+ and Joomla 3.3+
 Font Awesome Joomla Plugin http://extensions.joomla.org/extension/ns-font-awesome
 
 <b>Available Share Buttons:</b>
-Twitter
-Facebook
-Google+
-Xing
-LinkedIn
+Twitter<br />
+Facebook<br />
+Google+<br />
+Xing<br />
+LinkedIn<br />
 Mail (in the form of "mailto:?")
 
 
